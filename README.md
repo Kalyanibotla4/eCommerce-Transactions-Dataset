@@ -41,4 +41,4 @@ This repository contains the solution to a data science assignment focused on an
 ## **Requirements**
 To run the notebooks, install the required Python libraries:
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn fpdf
+pip install pandas numpy matplotlib seaborn scikit-learn 

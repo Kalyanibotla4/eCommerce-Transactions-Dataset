@@ -1,7 +1,7 @@
 # **eCommerce Transactions Analysis**
 
 ## **Overview**
-This repository contains an end-to-end data science project focused on analyzing an eCommerce transactions dataset. The tasks include exploratory data analysis (EDA), building a lookalike model to identify similar customers, and performing customer segmentation using clustering techniques.
+This repository contains the solution to a data science assignment focused on analyzing an eCommerce transactions dataset. The tasks include exploratory data analysis (EDA), building a lookalike model for customer similarity, and performing customer segmentation using clustering techniques.
 
 ---
 
